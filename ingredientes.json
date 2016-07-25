@@ -1,24 +1,81 @@
 {
   "ingredientes": [
     {
-      "nombre": "Pechuga",
+      "nombre": "Aceitunas",
       "url": "http://www.url.edu.gt/PortalURL/Biblioteca/pics/fb_sociales.jpg",
     },      
     {
-      
-      "nombre": "15DaysofAnimationsinSwift",
+      "nombre": "Jalapeño",
       "url": "larrynatalicio/15DaysofAnimationsinSwift",
-      
     },
     {
-      "nombre": "MTSwift-Learning",
+      "nombre": "Anchoas",
       "url": "MartinRGB/MTSwift-Learning",
-      
     },
     {
-      "nombre": "learn-swift",
+      "nombre": "Atún",
       "url": "nettlep/learn-swift",
-      
+    },
+   {
+      "nombre": "Bacon",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Cebolla",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Cerdo",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Champiñones",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Jamón York",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Maiz",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Pepperoni",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Pimiento",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Piña",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Ternera",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Tomate en dados",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Pollo",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Extra de Queso",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Jamón serrano",
+      "url": "MartinRGB/MTSwift-Learning",
+    },
+        {
+      "nombre": "Alcaparras",
+      "url": "MartinRGB/MTSwift-Learning",
     }
+    
   ]
 }
