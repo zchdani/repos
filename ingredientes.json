@@ -1,23 +1,23 @@
 {
-  "items": [
+  "ingredientes": [
     {
-      "name": "Pechuga",
-      "full_name": "allenwong/30DaysofSwift",
+      "nombre": "Pechuga",
+      "url": "allenwong/30DaysofSwift",
     },      
     {
       
-      "name": "15DaysofAnimationsinSwift",
-      "full_name": "larrynatalicio/15DaysofAnimationsinSwift",
+      "nombre": "15DaysofAnimationsinSwift",
+      "url": "larrynatalicio/15DaysofAnimationsinSwift",
       
     },
     {
-      "name": "MTSwift-Learning",
-      "full_name": "MartinRGB/MTSwift-Learning",
+      "nombre": "MTSwift-Learning",
+      "url": "MartinRGB/MTSwift-Learning",
       
     },
     {
-      "name": "learn-swift",
-      "full_name": "nettlep/learn-swift",
+      "nombre": "learn-swift",
+      "url": "nettlep/learn-swift",
       
     }
   ]
