@@ -2,7 +2,7 @@
   "ingredientes": [
     {
       "nombre": "Aceitunas",
-      "url": "http://www.url.edu.gt/PortalURL/Biblioteca/pics/fb_sociales.jpg",
+      "url": "https://drive.google.com/open?id=0B--W5JBFIQUpd2tkMkxhcjZUNWM",
     },      
     {
       "nombre": "Jalapeño",
@@ -57,15 +57,7 @@
       "url": "MartinRGB/MTSwift-Learning",
     },
         {
-      "nombre": "Tomate en dados",
-      "url": "MartinRGB/MTSwift-Learning",
-    },
-        {
       "nombre": "Pollo",
-      "url": "MartinRGB/MTSwift-Learning",
-    },
-        {
-      "nombre": "Extra de Queso",
       "url": "MartinRGB/MTSwift-Learning",
     },
         {
